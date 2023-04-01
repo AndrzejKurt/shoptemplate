@@ -1,0 +1,1 @@
+Preview page  [Click here] (https://andrzejkurt.github.io/shoptemplate/)
